@@ -1,0 +1,15 @@
+[
+  {
+    "description": "就是一个例子",
+    "request": {
+      "uri": "/demo",
+	  "method": "get"
+    },
+    "response": {
+      "json": {
+        "model": "123456.789",
+		"code":0
+      }
+    }
+  }
+]
